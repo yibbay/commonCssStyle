@@ -16,3 +16,7 @@ text-decoration: none;
 .none {
 display: none;
 }
+img{//移动端图片流体布局
+display:block;
+min-width:100%;
+}
